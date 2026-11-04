@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/laboratorio_concurrencia.dir/link.d CMakeFiles/laboratorio_concurrencia.dir/src/main.cpp.o CMakeFiles/laboratorio_concurrencia.dir/src/memory.cpp.o CMakeFiles/laboratorio_concurrencia.dir/src/ui.cpp.o CMakeFiles/laboratorio_concurrencia.dir/src/worker.cpp.o -o laboratorio_concurrencia  -lcurses /usr/lib/x86_64-linux-gnu/libform.so

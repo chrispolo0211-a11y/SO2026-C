@@ -1,0 +1,3 @@
+/home/Pabl000/laboratorio-concurrencia/build/CMakeFiles/laboratorio_concurrencia.dir
+/home/Pabl000/laboratorio-concurrencia/build/CMakeFiles/edit_cache.dir
+/home/Pabl000/laboratorio-concurrencia/build/CMakeFiles/rebuild_cache.dir
